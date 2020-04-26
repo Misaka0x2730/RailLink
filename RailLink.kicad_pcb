@@ -956,10 +956,10 @@
     (pad "" np_thru_hole circle (at 2.89 -2.6 270) (size 0.65 0.65) (drill 0.65) (layers *.Cu *.Mask))
     (pad S1 thru_hole oval (at 4.32 1.05 270) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask)
       (net 1 "Net-(C1-Pad2)"))
-    (model "${KIPRJMOD}/User Library-USB - C.WRL"
-      (offset (xyz 14.2 47.4 3.5))
-      (scale (xyz 400 400 400))
-      (rotate (xyz -180 0 0))
+    (model "${KIPRJMOD}/User Library-USB - C.STEP"
+      (offset (xyz 14 46.7 3.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 180))
     )
   )
 
