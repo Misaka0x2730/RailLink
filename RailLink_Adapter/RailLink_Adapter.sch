@@ -20,7 +20,7 @@ U 1 1 5EAC1063
 P 4750 3250
 F 0 "J1" H 4800 3550 50  0000 C CNN
 F 1 "RailLink" H 4800 2950 50  0000 C CNN
-F 2 "Connector_IDC:IDC-Header_2x05_P2.54mm_Horizontal" H 4750 3250 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Horizontal" H 4750 3250 50  0001 C CNN
 F 3 "~" H 4750 3250 50  0001 C CNN
 	1    4750 3250
 	1    0    0    -1  
