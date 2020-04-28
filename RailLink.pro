@@ -1,4 +1,4 @@
-update=Вс 26 апр 2020 22:11:42
+update=Вт 28 апр 2020 15:03:18
 version=1
 last_client=kicad
 [general]
@@ -68,7 +68,7 @@ OthersTextSizeThickness=0.15
 OthersTextItalic=0
 OthersTextUpright=1
 SolderMaskClearance=0.05
-SolderMaskMinWidth=0.2
+SolderMaskMinWidth=0.09999999999999999
 SolderPasteClearance=0
 SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
@@ -266,7 +266,7 @@ PageLayoutDescrFile=
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=
+NetFmtName=Pcbnew
 SpiceAjustPassiveValues=0
 LabSize=50
 ERC_TestSimilarLabels=1

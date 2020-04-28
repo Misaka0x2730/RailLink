@@ -5,12 +5,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "RailLink_Adapter"
+Date "2020-04-28"
+Rev "0.1"
+Comp "Misaka Production"
 Comment1 ""
-Comment2 ""
+Comment2 "Rezvanov Dmitry"
 Comment3 ""
 Comment4 ""
 $EndDescr
