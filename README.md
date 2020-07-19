@@ -5,7 +5,7 @@ Isolation based on ADuM4160 (USB2.0 FS isolation) and B0505S-1W (Isolated 5V/0.2
 # Overview
 Dimensions(L x W x H, millimeters): 70 x 28 x 15 (probe only); 110 x 35 x 25 (probe with connected adapter). </br>
 ![3d view](https://github.com/Misaka0x2730/RailLink/blob/master/images/RailLink_3d.png)
-
+![3d_adapter](https://github.com/Misaka0x2730/RailLink/blob/master/images/RailLink_adapter.png)
 # Assembly
 Most of SMD components are 0402. </br> 
 Assembly should be not very difficult even with soldering iron. </br>
