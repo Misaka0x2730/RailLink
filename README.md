@@ -50,5 +50,5 @@ Assembly drawing should be opened in browser. </br>
   * Exec AddFeature JFlash
   * Exec AddFeature RDDI </br>
 But in latest version (V6.80 at this moment) any of these commands causes "ERROR: Unknown command". </br>
-You can install older version (two or more version of JLink software pack can be install on one PC) and try run these commands. 
+You can install older version (two or more version of JLink software pack can be install on one PC) and try to execute these commands. 
 For example, it's working on V6.30.
