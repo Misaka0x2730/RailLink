@@ -3247,9 +3247,9 @@ F 4 "RC0402FR-071KL" H 14600 3900 50  0001 C CNN "Part Number"
 	1    14600 3900
 	-1   0    0    1   
 $EndComp
-Text Notes 10500 5600 0    50   ~ 0
-RED
 Text Notes 10500 5400 0    50   ~ 0
+RED
+Text Notes 10500 5600 0    50   ~ 0
 GREEN
 Wire Wire Line
 	10750 5600 10500 5600
