@@ -39,7 +39,7 @@ Assembly drawing should be opened in browser. </br>
   4. Connect RailLink to PC.
   5. Launch JLink.exe (JLinkExe on Linux) and agree to firmware restoring.
   6. Wait until firmware is restored.
-  7. Now RailLink is almost ready for use. Type and run "Exec SetSN=xxxxxxxx", where xxxxxxxx is serial number ![jlink_serial](https://github.com/Misaka0x2730/RailLink/blob/master/images/RailLink_jlink_serial.png). 
+  7. Now RailLink is almost ready for use. Type and run "Exec SetSN=xxxxxxxx", where xxxxxxxx is serial number; ![jlink_serial](https://github.com/Misaka0x2730/RailLink/blob/master/images/RailLink_jlink_serial.png)
   8. <b> RailLink is ready for use! </b>
   
 <b>PS. Important! </b></br> It's recommended to add following options:
@@ -52,3 +52,7 @@ Assembly drawing should be opened in browser. </br>
 But in latest version (V6.80 at this moment) any of these commands causes "ERROR: Unknown command". </br>
 You can install older version (two or more version of JLink software pack can be install on one PC) and try to execute these commands. 
 For example, it's working on V6.30.
+
+# License
+![ohl_logo](https://i1.wp.com/www.oshwa.org/wp-content/uploads/2014/03/oshw-logo-100-px.png) </br>
+This project is licensed under a [CERN Open Hardware Licence Version 2 - Permissive](https://ohwr.org/cern_ohl_p_v2.pdf).
