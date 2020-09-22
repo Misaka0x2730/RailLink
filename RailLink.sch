@@ -2807,12 +2807,12 @@ TARGET\nINTERFACE
 NoConn ~ 13100 2800
 NoConn ~ 13500 2800
 $Comp
-L Regulator_Switching:CRE1S0505S3C U2
+L Regulator_Switching:CRE1S0505SC U2
 U 1 1 609A4F11
 P 2250 3600
 F 0 "U2" H 2250 4067 50  0000 C CNN
-F 1 "CRE1S0505S3C" H 2250 3976 50  0000 C CNN
-F 2 "Converter_DCDC:Converter_DCDC_muRata_CRE1xxxxxx3C_THT" H 2250 3200 50  0001 C CNN
+F 1 "CRE1S0505SC" H 2250 3976 50  0000 C CNN
+F 2 "Converter_DCDC:Converter_DCDC_muRata_CRE1xxxxxxSC_THT" H 2250 3200 50  0001 C CNN
 F 3 "http://power.murata.com/datasheet?/data/power/ncl/kdc_cre1.pdf" H 2250 3100 50  0001 C CNN
 F 4 "B0505S-1W" H 2250 3600 50  0001 C CNN "Part Number"
 	1    2250 3600
