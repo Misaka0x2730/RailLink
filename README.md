@@ -109,7 +109,7 @@ Assembly drawing should be opened in browser. </br>
       3. Connect ST-LINK to PC
       4. Connect RailLink to PC
       5. Launch ST-LINK utility
-      6. Load [this file](https://github.com/Kevincoooool/MCU_Link_Diy/blob/master/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7%E6%96%B9%E5%BC%8F/JLink-v9_bootloader%E5%9B%BA%E4%BB%B6/bootloader.bin)
+      6. Load [this file](https://github.com/Kevincoooool/KS_Diy_Link/blob/master/Jlink_V9/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7%E6%96%B9%E5%BC%8F/JLink-v9_bootloader%E5%9B%BA%E4%BB%B6/bootloader.bin)
       into MCU.
     * <b>J-Link way</b>
       1. Connect RailLink SWD connector to J-Link
@@ -118,7 +118,7 @@ Assembly drawing should be opened in browser. </br>
       4. Start JFlashLite </br> ![jflashlite_start](https://github.com/Misaka0x2730/RailLink/blob/master/docs/images/RailLink_jflashlite_start.png)
       6. Select device - STM32F205RC, select interface - SWD, and speed - 100kHz </br>
       ![jflashlite_main](https://github.com/Misaka0x2730/RailLink/blob/master/docs/images/RailLink_jflashlite_main.png)
-      8. In Data file field choose [this file](https://github.com/Kevincoooool/MCU_Link_Diy/blob/master/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7%E6%96%B9%E5%BC%8F/JLink-v9_bootloader%E5%9B%BA%E4%BB%B6/bootloader.bin)
+      8. In Data file field choose [this file](https://github.com/Kevincoooool/KS_Diy_Link/blob/master/Jlink_V9/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7%E6%96%B9%E5%BC%8F/JLink-v9_bootloader%E5%9B%BA%E4%BB%B6/bootloader.bin)
       9. Click "Program Device" button
       10. Wait until the firmware is loaded;
   3. Disconnect RailLink and JLink from PC.
